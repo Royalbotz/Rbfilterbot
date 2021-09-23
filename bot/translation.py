@@ -27,4 +27,6 @@ Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥
 
 <b>➥ Library</b> : <i>Pyrogram Asyncio 1.13.0 </i>
 
+<b>➥ Server</b> : paid server 
+
 """
